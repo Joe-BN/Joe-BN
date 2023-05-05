@@ -2,7 +2,7 @@
 - 👀 I’m interested in TECH in General
 - 🌱 I’m currently learning Python
 
-- 📫 How to reach me  joe.ng'era@gmail.com
+- 📫 How to reach me   joe.ngera@gmail.com
 
 <!---
 Joe-BN/Joe-BN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
