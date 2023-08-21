@@ -2,7 +2,7 @@
 
 **'A young Deneloper'**
 
-(Plain Text about me)
+From the moment I first dicovered that I could do more than just consume content via my pc, I was hooked. The inner curiousity in me drove me to want to know more about this power to code. From one small prject to the next I feel elated to know more and more. I love the feeling of creating stuff. I think that Progrmming has helped me do just that. I encourage others like myself to hop along and join me in this journey
 
 ---
 
@@ -29,8 +29,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-or
 
 #
 
-<details>
- <summary><h3>My Coding Journey<h3/><summary>
+
+ <h2>My Coding Journey<h2/>
  This journey for me is my attempt at making a difference around me a line of code at a time. Just ike 'the boy who harnnesed 
  wind' I am proud to be on my way to mastering the control of very driving force of the future; computer. On this page I get to 
  make mistakes and the mistakes make me. I'm proud to be apart of the Open Scource Community. 😎
