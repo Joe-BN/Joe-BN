@@ -29,11 +29,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-or
 
 #
 
-
- <h2>My Coding Journey<h2/>
- This journey for me is my attempt at making a difference around me a line of code at a time. Just ike 'the boy who harnnesed 
- wind' I am proud to be on my way to mastering the control of very driving force of the future; computer. On this page I get to 
- make mistakes and the mistakes make me. I'm proud to be apart of the Open Scource Community. 😎
+&nbsp;
+# My Coding Journey
+This journey for me is my attempt at making a difference around me a line of code at a time. Just ike 'the boy who harnnesed wind' I am proud to be on my way to mastering the control of very driving force of the future; computer. On this page I get to make mistakes and the mistakes make me. I'm proud to be apart of the Open Scource Community. 😎
 
 
 
