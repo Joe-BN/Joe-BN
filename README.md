@@ -24,9 +24,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-or
 
 &nbsp;
 ---
-<hr/>
-#
 # 📈Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joe-BN&show_icons=true&theme=shadow_green)
 
 
 
