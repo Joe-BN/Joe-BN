@@ -1,4 +1,4 @@
-# Joseph Ng'era
+# Joseph B. Ng'era
 
 **'A young Deneloper'**
 
@@ -6,3 +6,4 @@
 
 ---
 
+# 🧰 Languages and Tools 💻
