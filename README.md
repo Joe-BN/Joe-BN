@@ -29,7 +29,7 @@ From the moment I first dicovered that I could do more than just consume content
 
 &nbsp;
 # My Coding Journey
-This journey for me is my attempt at making a difference around me a line of code at a time. Just ike 'the boy who harnnesed wind' I am proud to be on my way to mastering the control of very driving force of the future; computer. On this page I get to make mistakes and the mistakes make me. I'm proud to be apart of the Open Scource Community. 😎
+This journey for me is my attempt at making a difference around me a line of code at a time. Just like 'the boy who harnnesed wind' I am proud to be on my way to mastering the control of very driving force of the future; computer. On this page I get to make mistakes and the mistakes make me. I'm proud to be apart of the Open Scource Community. 😎
 
 
 
