@@ -15,7 +15,9 @@ From the moment I first dicovered that I could do more than just consume content
 <img align='left' alt='Python' width='40px' style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
 <img align='left' alt='Python' width='40px' style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
 <img align='left' alt='Python' width='40px' style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
+<img align='left' alt='Python' width='40px' style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align='left' alt='Python' width='40px' style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+
 
 &nbsp;
 ---
