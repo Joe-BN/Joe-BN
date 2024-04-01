@@ -13,8 +13,6 @@ From the moment I first dicovered that I could do more than just consume content
 <img align='left' alt='Arduino' width='40px' style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
 <img align='left' alt='Django' width='40px' style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
 
-
-
 &nbsp;
 ---
 
