@@ -1,8 +1,8 @@
 # Joseph B. Ng'era
 
-**'A young Developer'**
+**'A Young Developer'**
 
-From the moment I first dicovered that I could do more than just consume content via my pc, I was hooked. The inner curiousity in me drove me to want to know more about this power to code. From one small project to the next, I feel elated to know more and more. I love the feeling of creating stuff. I think that Progrmming has helped me do just that. I encourage others like myself to hop along and join me in this journey
+From the moment I first dicovered that I could do more than just consume content via my pc, I was hooked. The inner curiousity in me drove me to want to know more about this power to code. From one small project to the next, I was driven to learm more and more. I love the feeling of creating. I think that Progrmming has helped me do just that. I encourage others like myself to hop along and join the journey.
 
 ---
 
