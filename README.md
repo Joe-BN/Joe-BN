@@ -2,6 +2,9 @@
 
 **'A Young Developer'**
 
+My name is Joseph Ng'era, form Kenya.
+
+
 From the moment I first dicovered that I could do more than just consume content via my pc, I was hooked. The inner curiousity in me drove me to want to know more about this power to code. From one small project to the next, I was driven to learm more and more. I love the feeling of creating. I think that Progrmming has helped me do just that. I encourage others like myself to hop along and join the journey.
 
 ---
@@ -35,8 +38,6 @@ From the moment I first dicovered that I could do more than just consume content
 #
 
 &nbsp;
-# My Coding Journey
-This journey for me is my attempt at making a difference around me a line of code at a time. Just like 'the boy who harnnesed wind' I am proud to be on my way to mastering the control of the very driving force of the future; software. On this page I get to make mistakes and the mistakes make me. 
 
 I'm proud to be apart of the Open Scource Community. 😎
 
