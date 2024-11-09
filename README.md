@@ -39,7 +39,7 @@ From the moment I first dicovered that I could do more than just consume content
 
 &nbsp;
 
-I'm proud to be apart of the Open Scource Community. 😎
+I'm proud to be part of the Open Scource Community. 😎
 
 
 
