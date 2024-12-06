@@ -5,9 +5,8 @@
 
 Hi, I'm Joseph from Kenya.
 
-Discovering I could create rather than just consume sparked my passion for coding. Driven by curiosity, I embrace the journey. Programming fuels my love for creation, and I encourage others to join the adventure.
+Discovering I could command rather than just consume sparked my passion for coding. Driven by curiosity, I embrace the journey. Programming fuels my love for creation, and I encourage others to join the adventure.
 
----
 
 ## 🧰 Languages and Tools 💻
 <img align='left' alt='Arch' width='40px' style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" />
@@ -34,6 +33,7 @@ Discovering I could create rather than just consume sparked my passion for codin
 ---
 
 # 📈Stats
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joe-BN&show_icons=true&theme=shadow_green)
 
 #
