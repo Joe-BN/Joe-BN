@@ -1,11 +1,11 @@
-# Joseph B. Ng'era
+# Joseph B. Ng'era  
 
-**'A Young Developer'**
+**"A Young Developer with a Passion for Creation"**  
+---  
 
-My name is Joseph Ng'era, form Kenya.
+Hi, I'm Joseph from Kenya.
 
-
-From the moment I first dicovered that I could do more than just consume content via my pc, I was hooked. The inner curiousity in me drove me to want to know more about this power to code. From one small project to the next, I was driven to learm more and more. I love the feeling of creating. I think that Progrmming has helped me do just that. I encourage others like myself to hop along and join the journey.
+Discovering I could create rather than just consume sparked my passion for coding. Driven by curiosity, I embrace the journey. Programming fuels my love for creation, and I encourage others to join the adventure.
 
 ---
 
