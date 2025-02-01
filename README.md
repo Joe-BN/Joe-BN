@@ -1,6 +1,6 @@
 # Joseph B. Ng'era  
 
-**"A Young Developer with a Passion for Creation"**  
+**A Young Developer with a Passion for Creation**  
 ---  
 
 Hi, I'm Joseph from Kenya.
