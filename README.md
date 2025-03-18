@@ -1,11 +1,15 @@
+<div align="center">
+          
 # Joseph B. Ng'era  
 
 **A Young Developer with a Passion for Creation**  
----  
+--- 
+
 
 Hi, I'm Joseph from Kenya.
-
-Discovering I could command rather than just consume sparked my passion for coding. Driven by curiosity, I embrace the journey. Programming fuels my love for creation, and I encourage others to join the adventure.
+          
+Discovering I could command rather than just consume sparked my passion for coding. 
+Driven by curiosity, I embrace the journey. Programming fuels my love for creation, and I encourage others to join the adventure.
 
 
 ## 🧰 Languages and Tools 💻
@@ -14,7 +18,6 @@ Discovering I could command rather than just consume sparked my passion for codi
 <img align='left' alt='Docker' width='40px' style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
 <img align='left' alt='Postgres' width='40px' style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
 <img align='left' alt='Nix02' width='40px' style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nixos/nixos-original.svg" />
-
 
 
           
@@ -39,6 +42,8 @@ Discovering I could command rather than just consume sparked my passion for codi
 &nbsp;
 
 I'm proud to be part of the Open Scource Community. 😎
+
+</div>
 
 
 
