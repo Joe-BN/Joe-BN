@@ -1,5 +1,3 @@
-<div align="center">
-          
 # Joseph B. Ng'era  
 
 **A Young Developer with a Passion for Creation**  
@@ -17,11 +15,12 @@ Driven by curiosity, I embrace the journey. Programming fuels my love for creati
 <img align='left' alt='Arduino' width='40px' style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
 <img align='left' alt='Docker' width='40px' style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
 <img align='left' alt='Postgres' width='40px' style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
-<img align='left' alt='Nix02' width='40px' style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nixos/nixos-original.svg" />
 
 
           
 <!--
+<img align='left' alt='Nix02' width='40px' style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nixos/nixos-original.svg" />
+<img align='left' alt='Alpine.js' width='40px' style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/alpinejs/alpinejs-original.svg" />
 <img align='left' alt='Python' width='40px' style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align='left' alt='Podman' width='40px' style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/podman/podman-original.svg" />
 <img align='left' alt='Nvim' width='40px' style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" /> 
@@ -42,13 +41,6 @@ Driven by curiosity, I embrace the journey. Programming fuels my love for creati
 &nbsp;
 
 I'm proud to be part of the Open Scource Community. 😎
-
-</div>
-
-
-
-
-
 
 
 
