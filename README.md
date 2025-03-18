@@ -1,8 +1,9 @@
-
+<!--
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+-->
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=50&duration=3500&lines=Hello+There+!+👋🏽;+I'm+Joseph+Ng'era!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=60&duration=3500&lines=Hello+There+!+👋🏽;+I'm+Joseph+Ng'era!;" />
 </h1>
 
 <h3 align="center">A passionate software developer from Kenya </h3>
