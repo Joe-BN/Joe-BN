@@ -1,10 +1,11 @@
-# Joseph B. Ng'era  
 
-**A Young Developer with a Passion for Creation**  
---- 
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=50&duration=3500&lines=Hello+There+!+👋🏽;+I'm+Joseph+Ng'era!;" />
+</h1>
 
-Hi, I'm Joseph from Kenya.
+<h3 align="center">A passionate software developer from Kenya </h3>
           
 Discovering I could command rather than just consume sparked my passion for coding. 
 Driven by curiosity, I embrace the journey. Programming fuels my love for creation, and I encourage others to join the adventure.
@@ -39,9 +40,8 @@ Driven by curiosity, I embrace the journey. Programming fuels my love for creati
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joe-BN&show_icons=true&theme=shadow_green)
 
-#
-
 &nbsp;
+
 
 I'm proud to be part of the Open Scource Community. 😎
 
