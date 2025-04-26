@@ -13,7 +13,7 @@ Driven by curiosity, I embrace the journey. Programming fuels my love for creati
 
 <h2 align="center"> ⚒️ Languages and Tools 🧰 </h1>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,arduino,postgres,docker,neovim,go,obsidian&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python,arduino,postgres,docker,neovim,go,obsidian,nix&theme=dark" />
 </div>
           
 <!--
