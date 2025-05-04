@@ -3,13 +3,15 @@
 -->
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=60&duration=3500&lines=Hello+There+!+👋🏽;+I'm+Joseph+Ng'era!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=60&duration=4000&lines=Hello+There+!+👋🏽;+I'm+Joseph+Ng'era!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Kenya </h3>
-          
-Discovering I could command rather than just consume sparked my passion for coding. 
-Driven by curiosity, I embrace the journey. Programming fuels my love for creation, and I encourage others to join the adventure.
+<h3 align="center">  DEV @Ke </h3>
+
+<p align="center">
+Discovering I could tell my compute what to do got me hooked. I'd say I'm a curious guy and I love the journey. <br>
+Programming fuels my passion to create, and I encourage others to join the adventure.
+</p>
 
 <h2 align="center"> ⚒️ Languages and Tools 🧰 </h1>
 <div align="center">
