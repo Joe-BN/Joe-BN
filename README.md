@@ -6,7 +6,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=60&duration=4000&lines=Hello+There+!+👋🏽;+I'm+Joseph+Ng'era!;" />
 </h1>
 
-<h3 align="center">  DEV @Ke </h3>
+<h3 align="center">  DEV </h3>
 
 <p align="center">
 Discovering I could tell my compute what to do got me hooked. I'd say I'm a curious guy and I love the journey. <br>
