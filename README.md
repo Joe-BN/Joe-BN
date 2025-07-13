@@ -40,7 +40,7 @@ How can I turn any image into a github icon format, plug and play ???
 
 
 
-# 📈Stats
+## Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joe-BN&show_icons=true&theme=shadow_green)
 
